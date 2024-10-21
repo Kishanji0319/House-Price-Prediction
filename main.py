@@ -13,17 +13,21 @@ st.markdown("""
     <style>
    #root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.stAppViewBlockContainer.block-container.st-emotion-cache-13ln4jf.ea3mdgi5 > div > div > div > div.stForm.st-emotion-cache-qcpnpn.e10yg2by1{
             background-image:url("https://cdn4.vectorstock.com/i/1000x1000/35/93/wooden-background-template-natural-light-shade-vector-42133593.jpg");
-            background-repeat: no-repeat;
-            backgournd-op
-            height: 100vh;}
+            background-repeat: no-repeat;!important
+            # backgournd-op
+            height: 100vh;!important}
 
             
     #bangalore-house-price-prediction{
+            background-color:rgb(39,39,49);
             outline:5px;
-            color : rgb(255,255,255);}
-
+            color : rgb(255,255,255);
+            display:flex;
+            jsutify content:center;
+            border-radius:8px;}
+            
         body{
-            overflow: hidden;
+            overflow: hidden;!important
               }
     .stApp {
         background-image: url("https://potentpages.com/wp-content/uploads/2024/06/house.webp");
@@ -34,8 +38,8 @@ st.markdown("""
     }
           
 
-    #root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.stAppViewBlockContainer.block-container.st-emotion-cache-13ln4jf.ea3mdgi5 > div > div > div > div.stForm.st-emotion-cache-qcpnpn.e10yg2by1 > div > div > div > div:nth-child(2) > div > label > div > p{
-        font-size : 25px;
+    #root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.stMainBlockContainer.block-container.st-emotion-cache-13ln4jf.ea3mdgi5 > div > div > div > div.stForm.st-emotion-cache-qcpnpn.e10yg2by1 > div > div > div > div:nth-child(2) > div > label > div > p{
+        font-size : 22px;
         font-weight: bold;
         color : rgb(255,255,255 );
         background-color:rgb(39,39,49);
@@ -43,24 +47,24 @@ st.markdown("""
         border-radius:8px;
             }
     
-    #root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.stAppViewBlockContainer.block-container.st-emotion-cache-13ln4jf.ea3mdgi5 > div > div > div > div.stForm.st-emotion-cache-qcpnpn.e10yg2by1 > div > div > div > div:nth-child(3) > div > label > div > p{
-        font-size : 25px;
+    #root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.stMainBlockContainer.block-container.st-emotion-cache-13ln4jf.ea3mdgi5 > div > div > div > div.stForm.st-emotion-cache-qcpnpn.e10yg2by1 > div > div > div > div:nth-child(3) > div > label > div > p{
+        font-size : 22px;
         font-weight: bold;
         color : rgb(255,255,255 );
         background-color:rgb(39,39,49);
         padding:4px;
         border-radius:8px;}
 
-    #root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.stAppViewBlockContainer.block-container.st-emotion-cache-13ln4jf.ea3mdgi5 > div > div > div > div.stForm.st-emotion-cache-qcpnpn.e10yg2by1 > div > div > div > div:nth-child(4) > div > label > div > p{
-        font-size : 25px;
+    #root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.stMainBlockContainer.block-container.st-emotion-cache-13ln4jf.ea3mdgi5 > div > div > div > div.stForm.st-emotion-cache-qcpnpn.e10yg2by1 > div > div > div > div:nth-child(4) > div > label > div > p{
+        font-size : 22px;
         font-weight: bold;
         color : rgb(255,255,255 );
         background-color:rgb(39,39,49);
         padding:4px;
         border-radius:8px;}
 
-    #root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.stAppViewBlockContainer.block-container.st-emotion-cache-13ln4jf.ea3mdgi5 > div > div > div > div.stForm.st-emotion-cache-qcpnpn.e10yg2by1 > div > div > div > div:nth-child(5) > div > label > div > p{
-        font-size : 25px;
+    #root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.stMainBlockContainer.block-container.st-emotion-cache-13ln4jf.ea3mdgi5 > div > div > div > div.stForm.st-emotion-cache-qcpnpn.e10yg2by1 > div > div > div > div:nth-child(5) > div > label > div > p{
+        font-size : 22px;
         font-weight: bold;
         color : rgb(255,255,255 );
         background-color:rgb(39,39,49);
@@ -68,15 +72,15 @@ st.markdown("""
         border-radius:8px;}
 
 
-    #root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.stAppViewBlockContainer.block-container.st-emotion-cache-13ln4jf.ea3mdgi5 > div > div > div > div:nth-child(3) > div > div > div > div > div > div > p{
-        font-size : 25px;
+    #root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.stMainBlockContainer.block-container.st-emotion-cache-13ln4jf.ea3mdgi5 > div > div > div > div:nth-child(3) > div > div > div > div > div > div > p{
+        font-size : 22px;
         font-weight: bold;
         color : rgb(255,255,255 );
         background-color:rgb(39,39,49);
         padding:4px;
         border-radius:8px;}
             
-    #root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.stAppViewBlockContainer.block-container.st-emotion-cache-13ln4jf.ea3mdgi5 > div > div > div > div:nth-child(3) > div > div{
+    #root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.stMainBlockContainer.block-container.st-emotion-cache-13ln4jf.ea3mdgi5 > div > div > div > div:nth-child(3) > div > div{
             background-color: rgb(0,0,0);
              }
     </style>
