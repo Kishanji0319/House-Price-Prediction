@@ -83,7 +83,12 @@ st.markdown("""
     #root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.stMainBlockContainer.block-container.st-emotion-cache-13ln4jf.ea3mdgi5 > div > div > div > div:nth-child(3) > div > div{
             background-color: rgb(0,0,0);
              }
-    </style>
+            
+
+    #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            header {visibility: hidden;}
+    
             
     """, unsafe_allow_html=True,)
 
